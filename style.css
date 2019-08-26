@@ -10,6 +10,14 @@
   background-color: green;
 }
 
+button {
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  background-color: rgb(29, 145, 153);
+  color: white;
+  border-radius: 30%;
+}
+
 .row {
   height: 32px;
 }
